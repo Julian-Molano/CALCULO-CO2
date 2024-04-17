@@ -51,7 +51,7 @@ public class Main {
             System.out.println("FELICIDADES! NO ESTÁS GENERANDO CO2");
         }
         if (rta.equals("CAMINAR")){
-            System.out.println("FELICIDADES! NO ESTÁS GENERANDO CO2");
+            System.out.println("FELICIDADES! NO ESTÁS GENERANDO CO2");// no estas generando nada
         }
         //if (rta=!){
            // System.out.println("TIPO DE TRANSPORTE NO VÁLIDO");
